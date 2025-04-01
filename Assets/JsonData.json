@@ -1,0 +1,86 @@
+{
+    "GetFlashLight": true,
+    "Itemcode": [
+        3,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "Itemname": [
+        "LockPick",
+        "RedKey",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "Papercode": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "Papername": [
+        "Doc5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "KeyHole": [
+        false,
+        false,
+        false
+    ],
+    "MissionCheck": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "CutSceneCheck": [
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "MechanicalDoor1Open": true,
+    "OfficeDoorOpen": true,
+    "OfficeDoorCrashed": false,
+    "PantryDoorOpen": false,
+    "PantryDoorCrashed": false,
+    "ArchiveDoorOpen": false,
+    "ArchiveDoorCrashed": false,
+    "FoundSecretPaper": false,
+    "FoundRedKey": true,
+    "LockPickUseDrawerOpen": false,
+    "KeyPadUseDrawerOpen": false
+}

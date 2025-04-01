@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ActionZone
+  - Item
+  - Door
+  - Paper
+  - LockObj
+  - LockSafeCol
+  - DD
+  - CanAction
+  - PlayerHide
+  - Mob
+  - DoorBreakZone
+  - Pointer
+  - KeyHole
+  - Dead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - Mob
+  - Pointer
+  - DoorCrashZoneMo
+  - DoorCrashZonePl
+  - DoorCrashZonePo
+  - CrashedDoor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Postprocessing
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
